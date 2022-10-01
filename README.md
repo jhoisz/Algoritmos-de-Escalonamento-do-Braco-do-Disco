@@ -1,4 +1,4 @@
-# Escalonamento do braço do disco
+# 💿 Escalonamento do braço do disco
 
 Programas que simulam os seguintes algoritmos de escalonamento do braço de disco:
 
