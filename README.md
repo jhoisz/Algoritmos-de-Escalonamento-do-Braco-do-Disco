@@ -1,5 +1,6 @@
 # 💿 Escalonamento do braço do disco
 
+## Sobre
 Programas que simulam os seguintes algoritmos de escalonamento do braço de disco:
 
 - FCFS (First Come, First Serve)
@@ -9,6 +10,7 @@ externo do disco.
 
 ## Como executar:
 
+Baixe o projeto, entre no terminal e execute o comando:
 ```shell
 python3 main.py < entrada.txt
 ```
@@ -18,7 +20,8 @@ por linha, indicando primeiro o número do último cilindro no disco (os cilindr
 de 0 até este número), o cilindro sobre o qual a cabeça de leitura está inicialmente
 posicionada e a sequência de requisições de acesso.
 
-**Exemplo de entrada: **
+**Exemplo de entrada:**
+
 ```
 199
 53
